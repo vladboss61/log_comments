@@ -1,0 +1,56 @@
+[13 13:37:28] group: ХУЕТА, commentsSpammer interval: 6.00s, limit: 10, accounts for process: 5
+[13 13:37:28] [ullanipu1982] Logging in..
+[13 13:37:31] [ullanipu1982] Spamming to comments..
+[13 13:37:31] [ullanipu1982] [1] Comment for spam: add me
+[13 13:37:31] [ullanipu1982] [1] Steam error with 76561198795821168: Error: The settings on this account do not allow you to add comments.
+[13 13:37:37] [ullanipu1982] [1] Comment for spam: add me
+[13 13:37:38] [ullanipu1982] [1] Done with 76561199403177193
+[13 13:37:44] [ullanipu1982] [2] Comment for spam: add me
+[13 13:37:44] [ullanipu1982] [2] Steam error with 76561199014586722: Error: Настройки данного профиля не позволяют вам оставлять комментарии.
+[13 13:37:44] [reslearnfamor1984] Logging in..
+[13 13:37:45] [reslearnfamor1984] Spamming to comments..
+[13 13:37:45] [reslearnfamor1984] [1] Comment for spam: add me
+[13 13:37:46] [reslearnfamor1984] [1] Steam error with 76561199014586722: Error: The settings on this account do not allow you to add comments.
+[13 13:37:52] [reslearnfamor1984] [1] Comment for spam: add me
+[13 13:37:52] [reslearnfamor1984] [1] Done with 76561199404608861
+[13 13:37:58] [reslearnfamor1984] [2] Comment for spam: add me
+[13 13:37:59] [reslearnfamor1984] [2] Done with 76561198889726045
+[13 13:38:5] [reslearnfamor1984] [3] Comment for spam: add me
+[13 13:38:5] [reslearnfamor1984] [3] Done with 76561199030290031
+[13 13:38:11] [reslearnfamor1984] [4] Comment for spam: add me
+[13 13:38:12] [reslearnfamor1984] [4] Steam error with 76561199109313832: Error: The settings on this account do not allow you to add comments.
+[13 13:38:18] [reslearnfamor1984] [4] Comment for spam: add me
+[13 13:38:18] [reslearnfamor1984] [4] Done with 76561199068169643
+[13 13:38:24] [reslearnfamor1984] [5] Comment for spam: add me
+[13 13:38:25] [reslearnfamor1984] [5] Done with 76561198374550732
+[13 13:38:31] [reslearnfamor1984] [6] Comment for spam: add me
+[13 13:38:31] [reslearnfamor1984] [6] Done with 76561199044240858
+[13 13:38:37] [reslearnfamor1984] [7] Comment for spam: add me
+[13 13:38:38] [reslearnfamor1984] [7] Done with 76561199096692651
+[13 13:38:44] [reslearnfamor1984] [8] Comment for spam: add me
+[13 13:38:44] [reslearnfamor1984] [8] Done with 76561199015356195
+[13 13:38:50] [reslearnfamor1984] [9] Comment for spam: add me
+[13 13:38:50] [reslearnfamor1984] [9] Steam error with 76561198845389254: Error: The settings on this account do not allow you to add comments.
+[13 13:38:56] [reslearnfamor1984] [9] Comment for spam: add me
+[13 13:38:57] [reslearnfamor1984] [9] Done with 76561198430230624
+[13 13:39:3] [reslearnfamor1984] [10] Comment for spam: add me
+[13 13:39:3] [reslearnfamor1984] [10] Done with 76561198416781973
+[13 13:39:9] [reslearnfamor1984] Limit by user: 10
+[13 13:39:9] [hostudatah1983] Logging in..
+[13 13:39:11] [hostudatah1983] Spamming to comments..
+[13 13:39:11] [hostudatah1983] [1] Comment for spam: add me
+[13 13:39:12] [hostudatah1983] [1] Done with 76561198399800158
+[13 13:39:18] [hostudatah1983] [2] Comment for spam: add me
+[13 13:39:18] [hostudatah1983] [2] Done with 76561199135202836
+[13 13:39:24] [hostudatah1983] [3] Comment for spam: add me
+[13 13:39:25] [hostudatah1983] [3] Steam error with 76561198990387196: Error: Настройки данного профиля не позволяют вам оставлять комментарии.
+[13 13:39:25] [noiprodcaumi1986] Logging in..
+[13 13:39:26] [noiprodcaumi1986] Spamming to comments..
+[13 13:39:26] [noiprodcaumi1986] [1] Comment for spam: add me
+[13 13:39:27] [noiprodcaumi1986] [1] Steam error with 76561198990387196: Error: The settings on this account do not allow you to add comments.
+[13 13:39:33] [noiprodcaumi1986] [1] Comment for spam: add me
+[13 13:39:33] [noiprodcaumi1986] [1] Steam error with 76561198985884315: Error: Настройки данного профиля не позволяют вам оставлять комментарии.
+[13 13:39:33] [yramenyakupili167] Logging in..
+[13 13:39:35] [yramenyakupili167] Spamming to comments..
+[13 13:39:35] [yramenyakupili167] [1] Comment for spam: add me
+[13 13:39:35] [yramenyakupili167] [1] Steam error with 76561198985884315: Error: The settings on this account do not allow you to add comments.
