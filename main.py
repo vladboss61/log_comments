@@ -7,7 +7,7 @@ def write_ids(file_name: str, ids: list[str]):
             w_file.write(f"{u_id}\n")
 
 if __name__ == "__main__":
-    with open("logs_comments.txt") as input_f:
+    with open("logs_comments.txt", encoding='utf-8') as input_f:
         log_file_content = input_f.read()
 
         # Extract IDs after "Steam error" and "Done" messages, preserving order and making them unique
